@@ -1,5 +1,5 @@
 # CAB401-Parallelisation-Project-K-mers-C++
-2025 Semester Cab401 Parallelisation Project Report, Source code (improved_original), final code (improved_final), and checking code (improved_final_check)
+2025 Semester 2 Cab401 Parallelisation Project Report, Source code (improved_original), final code (improved_final), and checking code (improved_final_check)
 
 Project Marks: 48/50
 
